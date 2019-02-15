@@ -43,6 +43,7 @@ In the project the Ethereum Blockchain is used for storing two important data in
 The first storage (patient's consent) gives the patient a safety system that detects each change on the status of the consent (true or false). In this way if the patient decide to withdraw his consent to the analysis on its sample at a certain point, but the action is ingnored by the clinical trial sponsor, the patient has a public proof (on the blockchain) that his consent was absent. 
 The second storage ensures that the history of each samples (list of transactions) is securely stored on the blockchain and that after a given transaction is submitted through the webinterface no modfication of that transaction or the metadata attached to it (as for example the results of a given test) is possible. This ensures the tracking of each samples, which cannot be modified once setted.  
 # Demo
+**Note: This is a video that shows the project functionalities, it takes about 20sec to start.**
 ![alt text](https://github.com/RSchwan/Bloodchain/blob/master/img/Demo.gif)
 
 # Software Setup
